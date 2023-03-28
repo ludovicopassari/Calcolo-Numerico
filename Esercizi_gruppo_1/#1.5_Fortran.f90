@@ -13,7 +13,7 @@ PROGRAM CN_2022_2023
     !Considero come elemento più grande il primo elemento del vettore 
     max = N(1)
     !Per ogni elemento del vettore confronto il massimo corrente con l'elemento i-esimo  
-    do i =0,j
+    do i = 1,j
         !Se l'elemento i-esimo è maggiore del massimo aggiorno
         if(N(i) .GE. max) then
             max=N(i)
