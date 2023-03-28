@@ -1,4 +1,4 @@
-! Dati due numeri interi dire se il primo èmultiplo del secondo. Caso particolare dato un numero intero dire se è pari o dispari.
+! Dati due numeri interi dire se il primo è multiplo del secondo. Caso particolare dato un numero intero dire se è pari o dispari.
 
 PROGRAM CN_2022_2023
     ! dichiaro due variabili x e y che conterranno i due valori inseriti successivamente dall'utente
